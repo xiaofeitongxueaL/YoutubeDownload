@@ -1,4 +1,6 @@
 {
-  "version": "1.0.0",
-  "notice": "🚀 欢迎使用全能爬虫 Pro！当前版本稳定。"
+  "version": "3.9.1",
+  "notice": "🚀 欢迎使用！版本更新：增加了代理地址与任务状态记忆功能。",
+  "enable": true,
+  "download_url": "https://github.com/你的账号/你的仓库/releases"
 }
