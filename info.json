@@ -1,6 +1,6 @@
 {
   "version": "3.9.1",
-  "notice": "🚀 欢迎使用！版本更新：增加了代理地址与任务状态记忆功能。",
+  "notice": "🚀 欢迎使用 YouTube 全能爬虫 v3.9.1",
   "enable": true,
-  "download_url": "https://github.com/你的账号/你的仓库/releases"
+  "download_url": "https://github.com/xiaofeitongxueaL/YoutubeDownload"
 }
